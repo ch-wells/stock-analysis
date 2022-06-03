@@ -6,7 +6,9 @@
 The purpose of this project was to evaluate green stock options using the criteria of Total Daily Volume and rate of Return.  This project uses VBA and Excel to process data from 2017 and 2018 to arrive at these criteria.
 
 ## Results
-The images below illustrate the volatility of the stock market.  In 2017, 11 out of the 12 stocks analysed had a profitable rate of return.  However, 2018 is essentially an inversion; only 2 out of the same 12 stocks had a profitable year.  Even given the significant gains many of these stocks earned in 2017, the substantial dive they take in 2018 should give the investor pause.  ENPH and RUN appear to be the most reliable, but taking a look at a larger set of data would be advised
+The images below illustrate the volatility of the stock market.  In 2017, 11 out of the 12 stocks analysed had a profitable rate of return.  However, 2018 is essentially an inversion; only 2 out of the same 12 stocks had a profitable year.  Even given the significant gains many of these stocks earned in 2017, the substantial dive they take in 2018 should give the investor pause.  ENPH and RUN appear to be the most reliable, but taking a look at a larger set of data would be advised.
+
+![](/Resources/VBA_Challenge_2017_Output.png)
 
 
 ## Summary
